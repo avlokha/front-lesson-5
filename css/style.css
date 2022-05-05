@@ -1,6 +1,84 @@
-a{
-	text-decoration: none;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-ul, ol{
-	list-style: none;
+a {
+  text-decoration: none;
+  color: white;
+}
+ul,
+ol {
+  list-style: none;
+}
+header {
+  background-color: blue;
+  height: 387.56px;
+  width: 1920px;
+  margin-bottom: -150px;
+}
+li {
+  display: inline-block;
+}
+header img {
+  width: 115px;
+  height: 65px;
+  margin-left: 240px;
+  margin-top: 40px;
+  margin-right: 488px;
+}
+nav,
+header ul {
+  display: inline-block;
+  vertical-align: super;
+}
+li {
+  margin-left: 45px;
+  font-size: 16px;
+}
+.contact-link {
+  background-color: #ffffff;
+  color: black;
+
+  border-radius: 28px;
+
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.rectangle-91 {
+  border-radius: 15px;
+  margin-left: 362px;
+  margin-top: -10px;
+  margin-right: 362px;
+  margin-bottom: 30px;
+}
+.h2 {
+  margin-left: 362px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.img {
+  margin-left: 362px;
+  margin-right: 362px;
+  margin-bottom: 60px;
+}
+p {
+  width: 951px;
+  margin-left: 485px;
+  margin-top: 18px;
+  margin-bottom: 58px;
+}
+.damatebiti-info {
+  background-color: blue;
+  margin-left: 790px;
+  margin-right: 789px;
+  margin-bottom: 196px;
+  padding-left: 57px;
+  padding-top: 18px;
+  padding-right: 77px;
+  padding-bottom: 18px;
+
+  border-radius: 28px;
 }
